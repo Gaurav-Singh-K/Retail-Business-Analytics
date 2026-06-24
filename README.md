@@ -166,6 +166,7 @@ Based on the analysis:
 ---
 
 ## 📷 Sample Visualizations
+<img width="477" height="841" alt="Screenshot 2026-06-24 201814" src="https://github.com/user-attachments/assets/8abd4a9c-2893-4214-a57e-c5afd255a86c" />
 <img width="1267" height="630" alt="Screenshot 2026-06-21 190400" src="https://github.com/user-attachments/assets/0fbf82ec-9f51-4e5c-ab58-008ea1e4b0bb" />
 <img width="678" height="582" alt="Screenshot 2026-06-21 190607" src="https://github.com/user-attachments/assets/31db5932-e5d4-423d-bf1c-c3cf921ca986" />
 <img width="490" height="562" alt="Screenshot 2026-06-21 190528" src="https://github.com/user-attachments/assets/653c7218-0233-4ec7-8569-b293232e7b1c" />
