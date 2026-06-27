@@ -1,6 +1,6 @@
 # 📊 Retail Business Analytics | End-to-End Data Analytics Project
 
-> An end-to-end Retail Business Analytics project that transforms raw sales data into actionable business insights using Python, Pandas, Matplotlib, and Exploratory Data Analysis (EDA).
+> End-to-end Retail Business Analytics project using Python, SQL, Power BI, and DAX to transform raw sales data into actionable business insights through interactive dashboards and strategic business recommendations.
 
 ---
 
@@ -49,6 +49,7 @@ The objective is to identify:
 Retail-Business-Analytics/
 │
 ├── data/
+     └── superstoredataset.csv
 ├── notebook/
 │   └── Retail_Business_Analytics.ipynb
 ├── images/
