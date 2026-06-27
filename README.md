@@ -52,8 +52,8 @@ Retail-Business-Analytics/
 ├── notebook/
 │   └── Retail_Business_Analytics.ipynb
 ├── images/
-├── dashboard/          (Coming Soon)
-├── sql/                (Coming Soon)
+├── dashboard/          
+├── sql/               
 ├── presentation/       (Coming Soon)
 └── README.md
 ```
